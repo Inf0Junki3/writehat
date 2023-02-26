@@ -6,7 +6,8 @@
 }
 
 #title-page-div .report-title, #title-page-div .report-subtitle {
-    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    font-family: Arial, sans-serif, Calibri, Candara, Segoe, Segoe UI, Optima;
+    /* font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif; */
     font-size: 24pt;
     font-variant: small-caps;
 }
